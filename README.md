@@ -1,2 +1,3 @@
-# desafio_github_primeiro_repositorio
-Desafio de projeto sobre Git e Github do curso Impulso Javascript Evolution pela edtech DIO
+# Repositório do desafio sobre Git e GitHub
+
+Projeto sobre Git e GitHub do curso Impulso Javascript Evolution pela edtech DIO
